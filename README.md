@@ -66,11 +66,25 @@
   </a>
 </p>
 
-
 ## 📊 GitHub Contribution Summary
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ainulcodes&theme=dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ainulcodes&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ainulcodes&layout=compact&theme=dark)
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=ainulcodes&theme=tokyonight&hide_border=true"
+    height="150"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=ainulcodes&show_icons=true&theme=tokyonight&hide_border=true"
+    height="150"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ainulcodes&layout=compact&theme=tokyonight&hide_border=true"
+    height="150"
+  />
+
+</div>
 
 
